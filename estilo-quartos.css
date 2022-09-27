@@ -1,0 +1,18 @@
+.titulo-galeria {
+    height: 30vh;
+}
+.informacoes-quarto{
+    max-width: 1024px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+.informacoes-quarto li{
+    width: 25%;
+    margin-top: 15px;
+    text-align: left;
+    font-size: 14px;
+}
+
